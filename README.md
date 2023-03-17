@@ -6,6 +6,10 @@ SAŽETAK -> potrebno izraditi GUI aplikaciju za praćenje stanja ukrasnih i/ili 
 	- razina svijetla koja dopire do biljke
 	- temperatura zraka u prostoriji ili na otvorenom 	(terasa ili mali vrt)
 
+
+
+
+
 -> Dodatna vrijednost koju treba čuvati je temperatura zraka, koju ćete preuzeti s Meteo stanice u Algebrinom kampusu (Zagreb, Črnomerec) preko Web API usluge. Ukoliko Web API usluga na Meteo stanici iz bilo kojeg razloga bude nedostupna, osigurajte zamjensku opciju generiranjem ovih podataka unutar spomenute skripte.
 
 -> Posude sa senzora u aplikaciju šalju mjerenja preko integrirane Bluetooth veze.
